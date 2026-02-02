@@ -1,0 +1,5 @@
+Here are some sentences sentences sentences sentences.
+I first started off by creating a repository named CSIT_415 (making sure that a default main branch is created and a README is added). 
+I then created a new branch called branch1. 
+In this new branch, I clicked add a new file, named it text.txt, and am now typing in it.
+Next, I'll upload a photo of my favorite animal (my dog). 
